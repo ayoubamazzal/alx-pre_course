@@ -1,1 +1,2 @@
-what ever i want
+My first README
+Update
